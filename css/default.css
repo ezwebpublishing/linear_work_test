@@ -2,3 +2,16 @@
   margin: 0;
   padding: 0;
 }
+body{
+  padding: 20px;
+}
+.login-btn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition:0.35s;
+}
+.login-btn:hover {
+  opacity: 0.85;
+}
